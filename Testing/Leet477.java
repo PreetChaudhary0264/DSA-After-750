@@ -1,3 +1,5 @@
+package Testing;
+
 public class Leet477 {
     public int totalHammingDistance(int[] nums) {
         int n = nums.length;
